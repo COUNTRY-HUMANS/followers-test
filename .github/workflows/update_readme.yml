@@ -1,0 +1,29 @@
+name: Update README with Top Followers
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push changes back to the repository
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Update README with most followed followers
+        uses: Joe-Huber/my-most-followed-followers@main # Or use a specific version like @v1.0.1
+        with:
+          GITHUB_USER_NAME: ${{ github.repository_owner }}
+          MAX_FOLLOWER_COUNT: 10 # Optional: specify the number of followers to show
+      
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Automated README update" || exit 0
+          git push
