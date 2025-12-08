@@ -13,7 +13,7 @@
 | <img src='https://avatars.githubusercontent.com/u/84499372?v=4' width='30' height='30'> | [jrohitofficial](https://github.com/jrohitofficial) | 12700 |
 | <img src='https://avatars.githubusercontent.com/u/26924670?v=4' width='30' height='30'> | [sungeer](https://github.com/sungeer) | 10500 |
 | <img src='https://avatars.githubusercontent.com/u/13622306?v=4' width='30' height='30'> | [CelaDaniel](https://github.com/CelaDaniel) | 9600 |
-| <img src='https://avatars.githubusercontent.com/u/123446875?v=4' width='30' height='30'> | [K1rsN7](https://github.com/K1rsN7) | 9400 |
+| <img src='https://avatars.githubusercontent.com/u/20823832?v=4' width='30' height='30'> | [djvelimir](https://github.com/djvelimir) | 9400 |
 
-*Last updated: 2025-12-07 01:59:18 UTC*
+*Last updated: 2025-12-08 01:53:53 UTC*
 <!-- FOLLOWERS_LIST_END -->
