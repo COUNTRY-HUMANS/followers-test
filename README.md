@@ -5,7 +5,7 @@
 | Profile | Name | Followers |
 |---|---|---|
 | <img src='https://avatars.githubusercontent.com/u/57312267?v=4' width='30' height='30'> | [BEPb](https://github.com/BEPb) | 23800 |
-| <img src='https://avatars.githubusercontent.com/u/2605401?v=4' width='30' height='30'> | [kenjinote](https://github.com/kenjinote) | 20700 |
+| <img src='https://avatars.githubusercontent.com/u/2605401?v=4' width='30' height='30'> | [kenjinote](https://github.com/kenjinote) | 20800 |
 | <img src='https://avatars.githubusercontent.com/u/95856749?v=4' width='30' height='30'> | [george0st](https://github.com/george0st) | 13400 |
 | <img src='https://avatars.githubusercontent.com/u/13622306?v=4' width='30' height='30'> | [CelaDaniel](https://github.com/CelaDaniel) | 9700 |
 | <img src='https://avatars.githubusercontent.com/u/39637206?v=4' width='30' height='30'> | [Connor9994](https://github.com/Connor9994) | 8700 |
@@ -15,5 +15,5 @@
 | <img src='https://avatars.githubusercontent.com/u/146537917?v=4' width='30' height='30'> | [gaqx](https://github.com/gaqx) | 6700 |
 | <img src='https://avatars.githubusercontent.com/u/118323821?v=4' width='30' height='30'> | [motanelson](https://github.com/motanelson) | 6500 |
 
-*Last updated: 2025-12-13 02:02:57 UTC*
+*Last updated: 2025-12-14 02:08:24 UTC*
 <!-- FOLLOWERS_LIST_END -->
