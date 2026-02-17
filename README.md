@@ -4,16 +4,16 @@
 
 | Profile | Name | Followers |
 |---|---|---|
-| <img src='https://avatars.githubusercontent.com/u/6965893?v=4' width='30' height='30'> | [seehiong](https://github.com/seehiong) | 7400 |
-| <img src='https://avatars.githubusercontent.com/u/167228919?v=4' width='30' height='30'> | [NitrixXero](https://github.com/NitrixXero) | 2500 |
-| <img src='https://avatars.githubusercontent.com/u/220635541?v=4' width='30' height='30'> | [sarahofai](https://github.com/sarahofai) | 2200 |
-| <img src='https://avatars.githubusercontent.com/u/91359065?v=4' width='30' height='30'> | [OHANA-WEB](https://github.com/OHANA-WEB) | 1500 |
-| <img src='https://avatars.githubusercontent.com/u/45512128?v=4' width='30' height='30'> | [mig1023](https://github.com/mig1023) | 1400 |
-| <img src='https://avatars.githubusercontent.com/u/3078072?v=4' width='30' height='30'> | [dariubs](https://github.com/dariubs) | 1400 |
-| <img src='https://avatars.githubusercontent.com/u/191106326?v=4' width='30' height='30'> | [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola) | 1200 |
-| <img src='https://avatars.githubusercontent.com/u/169222607?v=4' width='30' height='30'> | [lshariprasad](https://github.com/lshariprasad) | 1200 |
-| <img src='https://avatars.githubusercontent.com/u/137505505?v=4' width='30' height='30'> | [iCarly2007](https://github.com/iCarly2007) | 1100 |
-| <img src='https://avatars.githubusercontent.com/u/71948069?v=4' width='30' height='30'> | [hasan4224](https://github.com/hasan4224) | 1000 |
+| <img src='https://avatars.githubusercontent.com/u/57312267?v=4' width='30' height='30'> | [BEPb](https://github.com/BEPb) | 24600 |
+| <img src='https://avatars.githubusercontent.com/u/2605401?v=4' width='30' height='30'> | [kenjinote](https://github.com/kenjinote) | 21100 |
+| <img src='https://avatars.githubusercontent.com/u/95856749?v=4' width='30' height='30'> | [george0st](https://github.com/george0st) | 13500 |
+| <img src='https://avatars.githubusercontent.com/u/13622306?v=4' width='30' height='30'> | [CelaDaniel](https://github.com/CelaDaniel) | 9900 |
+| <img src='https://avatars.githubusercontent.com/u/39637206?v=4' width='30' height='30'> | [Connor9994](https://github.com/Connor9994) | 9300 |
+| <img src='https://avatars.githubusercontent.com/u/47092464?v=4' width='30' height='30'> | [jfullstackdev](https://github.com/jfullstackdev) | 8100 |
+| <img src='https://avatars.githubusercontent.com/u/6965893?v=4' width='30' height='30'> | [seehiong](https://github.com/seehiong) | 7600 |
+| <img src='https://avatars.githubusercontent.com/u/104387283?v=4' width='30' height='30'> | [JCSIVO](https://github.com/JCSIVO) | 7500 |
+| <img src='https://avatars.githubusercontent.com/u/118323821?v=4' width='30' height='30'> | [motanelson](https://github.com/motanelson) | 7300 |
+| <img src='https://avatars.githubusercontent.com/u/1650997?v=4' width='30' height='30'> | [trinhminhtriet](https://github.com/trinhminhtriet) | 7200 |
 
-*Last updated: 2026-02-08 01:37:08 UTC*
+*Last updated: 2026-02-17 02:34:52 UTC*
 <!-- FOLLOWERS_LIST_END -->
